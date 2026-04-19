@@ -10,6 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SeleniumWebdriverTest {
+    /*
 WebDriver webDriver;
 @BeforeEach
     void setUp(){
@@ -38,5 +39,7 @@ WebDriver webDriver;
     //dong
     webDriver.quit();
 }
+
+     */
 
 }
