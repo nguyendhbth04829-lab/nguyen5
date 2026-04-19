@@ -3,6 +3,7 @@ package vn.fpoly.detri.methods;
 public class MyUtil {
     public int tongle(int n){
         if (n<1){
+
             throw new IllegalArgumentException("n phai lon hon 1");
         }
         int tong= 0;
