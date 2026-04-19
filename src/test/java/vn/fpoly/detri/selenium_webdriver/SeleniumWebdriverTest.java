@@ -22,6 +22,7 @@ WebDriver webDriver;
     //open linnk
     webDriver.get("https://anupdamoda.github.io/AceOnlineShoePortal/index.html");
     //click menu
+
     webDriver.findElement(By.xpath("//*[@id=\"menuToggle\"]/input")).click();
     //login
     Thread.sleep(2000);
