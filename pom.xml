@@ -44,13 +44,7 @@
         </dependency>
 
 
-        <!-- Source: https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-        <dependency>
-            <groupId>io.github.bonigarcia</groupId>
-            <artifactId>webdrivermanager</artifactId>
-            <version>6.3.4</version>
-            <scope>compile</scope>
-        </dependency>
+
 
 
         <dependency>
